@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-mail
+requests
+python-whois
+reportlab
+playwright
+anthropic
+telethon
+python-dotenv
+groq
